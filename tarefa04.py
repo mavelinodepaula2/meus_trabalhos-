@@ -1,3 +1,4 @@
+#barra de carregamento
 import os 
 import time
 
